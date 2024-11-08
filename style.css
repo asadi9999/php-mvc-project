@@ -1,0 +1,42 @@
+.btn-primary {
+    color: #fff;
+    background-color: #5c4ad5;
+    border-color: #5c4ad5;
+}
+* p{
+    text-align: justify;
+}
+footer > div.row > div > ul > li > a{
+    color: rgba(83, 175, 255, 0.42);!important;
+}
+footer > div.row > div > ul > li > a:hover{
+    color: #5c4ad5;
+}
+footer > div > ul > li{
+    
+    float: left;
+}
+footer > div > ul{
+    display: table;
+    margin: 5px auto;
+}
+@font-face {
+    font-family: vazir;
+    src: url('font/Vazirmatn-Regular.ttf');
+}
+@font-face {
+    font-family: vazir-title;
+    src: url('font/Vazirmatn-Bold.ttf');
+}
+body{
+    font-family: vazir;
+}
+#contactus h2{
+    font-family: vazir-title;
+    font-size: medium;
+}
+
+
+
+
+
